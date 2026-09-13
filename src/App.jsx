@@ -115,7 +115,7 @@ export default function Portfolio() {
 
   const experience = [
     {
-      role: "Backend & AI Developer Intern",
+      role: "Backend & AI Developer",
       company: "Affy Cloud Solutions",
       duration: "Jul 2025 – Present",
 
